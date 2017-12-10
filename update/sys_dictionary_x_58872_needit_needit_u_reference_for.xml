@@ -10,7 +10,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>requested for</column_label>
+        <column_label>requested forUser [sys_user]</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -51,15 +51,15 @@
         <sys_created_on>2017-12-10 16:58:52</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>017fdac00f47030045a40dbce1050e16</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>requested for</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>requested forUser [sys_user]</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_needit_needit_u_reference_for</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-12-10 16:58:52</sys_updated_on>
+        <sys_updated_on>2017-12-10 17:13:16</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

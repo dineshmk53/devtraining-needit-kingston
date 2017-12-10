@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
-        <element label="requested for" max_length="32" name="u_reference_for" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element label="requested forUser [sys_user]" max_length="32" name="u_reference_for" reference="cmdb_ci_appl_dot_net" type="reference"/>
         <element label="When needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
     </element>
 </database>
